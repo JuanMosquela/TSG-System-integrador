@@ -14,7 +14,8 @@ namespace EntragaFinal
         {
 
             //Ejercicio1.Run();
-            Ejercicio2.Run();
+            //Ejercicio2.Run();
+            Ejercicio3.Run();
             
         }
     }
